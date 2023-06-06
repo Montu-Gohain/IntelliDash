@@ -1,6 +1,13 @@
 # Proudct name : IntelliDash
 
-A feature rich Admin Dashboard emulating the metrics of sales in a FMCG company.Its has industry standard data visualization with Chats, graphs and world map.
+A feature rich Admin Dashboard PWA(Progressive web app) emulating the metrics of sales in a FMCG company.Its has industry standard data visualization with Chats, graphs and world map.In adition to that it can be installed as a web app in the desktop,since its a PWA.
+
+## Run it locally
+
+```bash
+ npm install
+ npm run start
+```
 
 ## Tech Stack
 
